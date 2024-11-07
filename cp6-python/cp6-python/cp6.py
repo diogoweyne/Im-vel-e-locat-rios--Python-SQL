@@ -6,9 +6,9 @@
 import oracledb
 
 # Configurações de conexão
-USERNAME = "RM558380"
-PASSWORD = "fiap24"
-DSN = "oracle.fiap.com.br:1521/orcl"
+USERNAME = "----"
+PASSWORD = "----"
+DSN = "-----"
 
 
 # Função para conectar ao banco de dados
